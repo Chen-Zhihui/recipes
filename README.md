@@ -1,10 +1,17 @@
 # recipes
 
 
+# 代码整理分类法
+（１）实用过的
+（２）测试过的
+（３）备选
+（４）有前景的
+（５）重要算法和数据
 
 
 # mlt
 [shotcut](https://github.com/av-ref/shotcut)
+[mlt](https://github.com/av-ref/mlt)
 
 
 
@@ -127,4 +134,7 @@
 # QtWiz
 
 CWizDatabaseManager
+
+# job@github.com
+[job](https://github.com/android-cn/android-jobs)
 
