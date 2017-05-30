@@ -1,2 +1,16 @@
 /SRR3503015.fastq
 /SRR3503013.fastq
+/.spyproject/
+*.fastq
+*.sorted.bam
+*.bam_sorted.bam.bai
+*.bam_sorted.bam
+*.bam.ugenedb
+*.sam.ugenedb
+*.sam.bam
+*.sam
+*.bam
+*.ht2
+*.bai
+*.fai
+*.fa
