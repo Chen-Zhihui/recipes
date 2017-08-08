@@ -1,2 +1,3 @@
 
 add_executable(weak_reference weak_reference.cpp)
+add_executable(variadic_template variadic_template.cpp)
